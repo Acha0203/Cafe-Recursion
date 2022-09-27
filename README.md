@@ -1,7 +1,8 @@
 # Cafe Recursion Home Page
 
-架空の喫茶店「Cafe Recursion」のホームページです。コンピュータ・サイエンスの学習プラットフォーム [Recursion](https://recursionist.io) で開催されているイベント「チーム開発 (初心者)」の課題として制作されました。
+架空の喫茶店「Cafe Recursion」のホームページです。コンピュータ・サイエンスの学習プラットフォーム [Recursion](https://recursionist.io) で開催されているイベント「Git ワークショップ (初心者向けチーム開発)」の課題として制作されました。
 
+![cafe-recursion](https://user-images.githubusercontent.com/74553433/192509026-bb97e737-656c-402b-bd9c-bd62a716f5a1.jpg)
 
 ## Pages URL
 
