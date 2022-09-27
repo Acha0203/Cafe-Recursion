@@ -172,7 +172,7 @@ body {
 
   .card-content {
     width: 100%;
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   .card-style {
@@ -199,7 +199,7 @@ body {
   }
 
   .cafe-recursion {
-    font-size: 2.4rem;
+    font-size: 2rem;
     padding-top: 0;
   }
 
